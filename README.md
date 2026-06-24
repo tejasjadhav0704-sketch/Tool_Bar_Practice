@@ -178,15 +178,14 @@ Download Git on your system
 Clone the repository:
 
 ```bash
-git clone https://github.com/tejasjadhav0704-sketch/
+git clone https://github.com/tejasjadhav0704-sketch/Tool_Bar_Practice.git
 ```
 
 Then:
 
 1. Open in Android Studio  
-2. Add Firebase `google-services.json`  
-3. Sync Gradle  
-4. Run the app  
+2. Sync Gradle  
+3. Run the app  
 
 ---
 
